@@ -28,6 +28,8 @@
 
 Mini-Cover 是一个现代化的封面生成工具，专为博客、短视频、社交媒体设计。支持多种自定义选项，让你轻松创建个性化封面图片。
 
+作者：JLinMr
+
 ## ✨ 特性
 
 - 📱 响应式设计，完美支持移动端
@@ -99,4 +101,4 @@ npm run build
 
 ## 📝 开源协议
 
-[MIT License](LICENSE)
+[MIT License](LICENSE)      
